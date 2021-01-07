@@ -17,6 +17,15 @@ NLP is a broad field, encompassing a variety of tasks, including:
 see progress: https://nlpprogress.com/
 
 
+### Deep Learning 
+
+1. Standard architectures (MLP, vanilla RNN, LSTM (also see this blog), GRU, conv layers, resnets, attention mechanisms), 
+2. Common regularizers (weight decay, dropout)
+3. Normalization (batch norm, layer norm, weight norm)
+4. Optimizers (SGD, momentum SGD, Adam, others). 
+5. the reparameterization trick 
+6. Practice and Trends: https://www.youtube.com/watch?v=YJnddoa8sHk
+
 
 ### NLP Notebooks: 
 
