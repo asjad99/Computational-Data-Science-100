@@ -42,11 +42,16 @@ https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_
     - Langugage Models are Unsupervised Multi-Task Learners 
     - Bert: Pre-Training of Deep Bidirectional Transformers for Language Understanding
     - XLNET: Generalised Auto-regressive Pre-training for language Understanding 
-    
+ 
+ 
+ ### Process: 
+ 
+-  [Is Agile Development used in Machine Learning and Natural Language Processing?](https://softwareengineering.stackexchange.com/questions/127472/is-agile-development-used-in-machine-learning-and-natural-language-processing) 
+
     
  ### People: 
 
-| Rachel Thomas   | fast.ai Course                                                    | https://youtu.be/KChtdexd5Jo?list=PL-XoTgTAA8RFwnTIL87-puvEIpsnQo2yx                                                                     |
+| Rachel Thomas   | fast.ai Course                           | https://youtu.be/KChtdexd5Jo?list=PL-XoTgTAA8RFwnTIL87-puvEIpsnQo2yx                                                                     |
 | --------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 |                 |                                                                   | https://www.superlectures.com/interspeech2016/isca-medalist-for-leadership-and-extensive-contributions-to-speech-and-language-processing |
 | Sebastian Ruder | research scientist at DeepMind - thought leader with his blog     | https://ruder.io/                                                                                                                        |
