@@ -1,3 +1,45 @@
+## Deep Learning and Natural Language Processing
+
+
+### Topics: 
+
+-  Introduction: 
+- The Perceptron, and All the Things it Can’t Perceive
+- Neural Networks and the Backpropagation Algorithm
+- History of Deep Learning
+ - common regularizers (weight decay, dropout)
+ - Normalization (batch norm, layer norm, weight norm)
+ - Optimizers (SGD, momentum SGD, Adam, others). 
+ - the reparameterization trick 
+ - Practice and Trends: https://www.youtube.com/watch?v=YJnddoa8sHk
+
+
+
+
+
+Topics: 
+
+ standard architectures (MLP, vanilla RNN, LSTM (also see this blog), GRU, conv layers, resnets, attention mechanisms), 
+ 
+
+
+Useful guides: 
+  - [Deep Learning and neural networks](http://neuralnetworksanddeeplearning.com/)
+  - [How neural networks work](https://omar-florez.github.io/scratch_mlp/)
+  - [Deep Learning Nature Paper](https://www.nature.com/articles/nature14539)
+  - [History of Deep Learning](https://www.asjadk.io/history-of-deep-learning/)
+
+
+ Practice and Trends: https://www.youtube.com/watch?v=YJnddoa8sHk
+
+### Useful datasets 
+
+https://www.kaggle.com/asjad99 
+https://github.com/beamandrew/medical-data 
+
+
+----------
+
 ### NLP Tasks: 
 
 NLP is a broad field, encompassing a variety of tasks, including:
@@ -17,14 +59,7 @@ NLP is a broad field, encompassing a variety of tasks, including:
 see progress: https://nlpprogress.com/
 
 
-### Deep Learning 
-
-1. Standard architectures (MLP, vanilla RNN, LSTM (also see this blog), GRU, conv layers, resnets, attention mechanisms), 
-2. Common regularizers (weight decay, dropout)
-3. Normalization (batch norm, layer norm, weight norm)
-4. Optimizers (SGD, momentum SGD, Adam, others). 
-5. the reparameterization trick 
-6. Practice and Trends: https://www.youtube.com/watch?v=YJnddoa8sHk
+6.
 
 
 ### NLP Notebooks: 
