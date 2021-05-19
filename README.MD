@@ -11,26 +11,21 @@
  - Normalization (batch norm, layer norm, weight norm)
  - Optimizers (SGD, momentum SGD, Adam, others). 
  - the reparameterization trick 
- - Practice and Trends: https://www.youtube.com/watch?v=YJnddoa8sHk
-
-
-
-
-
-Topics: 
-
  standard architectures (MLP, vanilla RNN, LSTM (also see this blog), GRU, conv layers, resnets, attention mechanisms), 
- 
 
+---
 
-Useful guides: 
+Theory Resources: 
+  - [Theory of Deep Learning](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf)
+  - [Recent Advances in Deep Learning Theory](Recent advances in deep learning theory)
+  - [Conceptual Understanding of Deep Learning Workshop](https://www.youtube.com/watch?v=g5DGBWjiULQ) 
+  - [Theoretical principles for deep learning](https://mitliagkas.github.io/ift6085-dl-theory-class/) 
+  - Analyses of Deep Learning (STATS 385) 
   - [Deep Learning and neural networks](http://neuralnetworksanddeeplearning.com/)
   - [How neural networks work](https://omar-florez.github.io/scratch_mlp/)
   - [Deep Learning Nature Paper](https://www.nature.com/articles/nature14539)
   - [History of Deep Learning](https://www.asjadk.io/history-of-deep-learning/)
-
-
- Practice and Trends: https://www.youtube.com/watch?v=YJnddoa8sHk
+  - [Practice and Trends](https://www.youtube.com/watch?v=YJnddoa8sHk)
 
 ### Useful datasets 
 
