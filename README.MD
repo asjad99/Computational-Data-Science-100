@@ -23,6 +23,6 @@ This repo is inspired by work being done at following labs:
 
 ### Microsoft Kinect 
 - [Demo - Control Unity 3d Simulations with Kinect](https://www.youtube.com/watch?v=8mTGT6XH7J0) - Maps the terrain of mars in virtual Unity3D simulation 
-- [Notes] (https://github.com/asjad99/KINEFF) 
+- [Notes](https://github.com/asjad99/KINEFF) 
 ### Printing
 - [insta-print](https://github.com/asjad99/InstaPrint) - An iPhone app for Printing your instagram images 
