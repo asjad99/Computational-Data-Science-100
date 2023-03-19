@@ -4,7 +4,7 @@ This repo is inspired by work being done at following labs:
   - Stanford Comptation 
   - MIT Media labs 
 
-### Projects: 
+### Pet Projects: 
 
 #### JAVA 
 - [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
