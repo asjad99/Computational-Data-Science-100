@@ -1,8 +1,8 @@
 ## About
 
-This repo is inspired by work being done at following labs: 
-  - Stanford Comptation 
-  - MIT Media labs 
+This work in this repo explores the intersections of technology, science, art, and design. The projects have been inspired by the work being done at following labs: 
+  - [Stanford Comptational Imaging Lab](https://www.computationalimaging.org/) 
+  - MIT Media lab 
 
 ### Pet Projects: 
 
