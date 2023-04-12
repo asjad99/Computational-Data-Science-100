@@ -4,6 +4,8 @@ This work in this repo explores the intersections of technology, science, art, a
   - [Stanford Comptational Imaging Lab](https://www.computationalimaging.org/) 
   - MIT Media lab 
 
+Particular focus is on Computational Imaging, AR and Graphics
+
 ### Pet Projects: 
 
 #### JAVA 
