@@ -1,8 +1,12 @@
 ## About
 
-This work in this repo explores the intersections of technology, science, art, and design. The projects have been inspired by the work being done at following labs: 
+This work in this repo explores the intersections of technology, science, art, and design. We explore emergent phenomena in real-life systems (i.e. cities, mobility), sociotechnical systems (i.e. social networking sites, Wikipedia), and human-computer interaction. 
+
+
+The projects have been inspired by the work being done at following labs: 
   - [Stanford Comptational Imaging Lab](https://www.computationalimaging.org/) 
   - MIT Media lab 
+  - https://comet.dlsu.edu.ph/
 
 Particular focus is on Computational Imaging, AR and Graphics
 
