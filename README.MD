@@ -24,3 +24,8 @@ Below is an index of the notebooks included in this repository. Links to the ind
 
 Contributions are welcome! If you would like to add new notebooks, suggest changes, or fix any issues, please feel free to submit a pull request.
 
+
+Advanced Algorithms: https://github.com/asjad99/Algorithms-for-data-products 
+Everyday DS Tools: https://github.com/asjad99/Data-Science-Tools 
+Case Stuides/Applications: https://github.com/asjad99/Data-Science-Applications 
+
