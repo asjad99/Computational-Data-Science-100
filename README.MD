@@ -1,6 +1,8 @@
 # Fundamental Concepts in Data Science
 
-Welcome to the **Fundamental Concepts in Data Science** GitHub repository! This repository is a collection of Jupyter notebooks aimed at teaching key concepts in data science, ranging from foundational mathematics to practical data analysis techniques. Each notebook is designed to be a standalone learning resource, complete with explanations, examples, and exercises to help you get hands-on with each topic.
+Welcome to the **Fundamental Concepts in Data Science** Repo! 
+
+This Repo is a collection of Jupyter notebooks aimed at teaching key concepts in data science, ranging from foundational mathematics to practical data analysis techniques. Each notebook is designed to be a standalone learning resource, complete with explanations, examples, and exercises to help you get hands-on with each topic.
 
 ## Index of Notebooks
 
