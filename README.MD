@@ -1,34 +1,24 @@
-## About
+# Fundamental Concepts in Data Science
 
-This work in this repo explores the intersections of technology, science, art, and design. We explore emergent phenomena in real-life systems (i.e. cities, mobility), sociotechnical systems (i.e. social networking sites, Wikipedia), and human-computer interaction. 
+Welcome to the **Fundamental Concepts in Data Science** GitHub repository! This repository is a collection of Jupyter notebooks aimed at teaching key concepts in data science, ranging from foundational mathematics to practical data analysis techniques. Each notebook is designed to be a standalone learning resource, complete with explanations, examples, and exercises to help you get hands-on with each topic.
 
+## Index of Notebooks
 
-The projects have been inspired by the work being done at following labs: 
-  - [Stanford Comptational Imaging Lab](https://www.computationalimaging.org/) 
-  - MIT Media lab 
-  - https://comet.dlsu.edu.ph/
+Below is an index of the notebooks included in this repository. Links to the individual notebooks will be added soon.
 
-Particular focus is on Computational Imaging, AR and Graphics
+| Topic                                              | Description                                                                                                                                                                                                              | Link            |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| **1. Exploratory Data Analysis (EDA)**             | EDA Notebook 1: Introduction to EDA and basic data summary techniques  EDA Notebook 2: Understanding distributions, central tendency, and variability  EDA Notebook 3: Univariate and multivariate relationships in data | [Link Placeholder] |
+| **2. Data Munging**                                | Data Cleaning and Preprocessing: Handling missing data, data transformation, and feature engineering  Data Wrangling: Merging, reshaping, and dealing with categorical data                                              | [Link Placeholder] |
+| **3. Linear Algebra**                              | Vectors and Matrices: Concepts of vectors, operations on matrices, and matrix factorizations  Applications in Data Science: How linear algebra is used in machine learning models                                        | [Link Placeholder] |
+| **4. Data Visualization Techniques**               | Basic Plotting: Introduction to Matplotlib and Seaborn for visualizing data  Advanced Visualization: Creating interactive visualizations and dashboards                                                                  | [Link Placeholder] |
+| **5. Statistics**                                  | Descriptive Statistics: Measures of central tendency and variability  Inferential Statistics: Hypothesis testing, confidence intervals, and p-values                                                                     | [Link Placeholder] |
+| **6. Experimental Design and Analysis**            | Experimental Design: Concepts of controlled experiments, A/B testing, and sample size determination  Analysis Techniques: Methods for analyzing experimental results                                                     | [Link Placeholder] |
+| **7. Dimensionality Reduction**                    | PCA and t-SNE: Introduction to Principal Component Analysis and t-Distributed Stochastic Neighbor Embedding  Feature Selection: Techniques for selecting important features in a dataset                                 | [Link Placeholder] |
+| **8. Clustering**                                  | K-Means and Hierarchical Clustering: Understanding unsupervised learning and cluster formation  Clustering Evaluation: Techniques to evaluate clustering effectiveness                                                   | [Link Placeholder] |
+| **9. Graphs**                                      | Introduction to Graphs: Understanding nodes, edges, and types of graphs  Network Analysis: Concepts like centrality, shortest path, and community detection                                                              | [Link Placeholder] |
+| **10. Numerical Optimization**                     | Optimization Basics: Gradient descent, learning rates, and optimization algorithms  Applications: Optimization techniques in machine learning models                                                                     | [Link Placeholder] |
+| **11. Storytelling with Data (Our World in Data)** | Data Storytelling Techniques: How to effectively communicate insights using real-world datasets  Examples from Our World in Data: Exploring global datasets to tell compelling stories                                   | [Link Placeholder] |
 
-### Pet Projects: 
+Contributions are welcome! If you would like to add new notebooks, suggest changes, or fix any issues, please feel free to submit a pull request.
 
-#### JAVA 
-- [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application written in JAVA 
-
-#### Matlab 
-- [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - Automated Removal of Image Compression Artifacts - Improves an algorithm proposed by Luo and Ward for the removal of edges of the blocks in regions that are affected by blockiness effects.
-
-#### LabView 
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - Hand detection gesture system written in LabView   
-
-#### NXC 
-- [Robo-Soccor](https://github.com/asjad99/Robot-Soccer-) - Lego based Autonomous Robot Capable of playing soccer using a spray painted Squash ball.
-
-#### Unity3D 
-- [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot) - Maps the terrain of mars in virtual Unity3D simulation 
-
-### Microsoft Kinect 
-- [Demo - Control Unity 3d Simulations with Kinect](https://www.youtube.com/watch?v=8mTGT6XH7J0) - Maps the terrain of mars in virtual Unity3D simulation 
-- [Notes](https://github.com/asjad99/KINEFF) 
-### Printing
-- [insta-print](https://github.com/asjad99/InstaPrint) - An iPhone app for Printing your instagram images 
