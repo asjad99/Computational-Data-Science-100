@@ -1,4 +1,11 @@
-# Fundamental Concepts in Data Science
+
+### Mini-Projects in Data Science 
+
+### Useful Algorithms for Data Science
+
+https://github.com/asjad99/Algorithms-for-data-products 
+
+### Data Science Foundations - Selected Topics in Data Science
 
 Welcome to the **Fundamental Concepts in Data Science** Repo! 
 
@@ -28,4 +35,8 @@ Contributions are welcome! If you would like to add new notebooks, suggest chang
 Advanced Algorithms: https://github.com/asjad99/Algorithms-for-data-products 
 Everyday DS Tools: https://github.com/asjad99/Data-Science-Tools 
 Case Stuides/Applications: https://github.com/asjad99/Data-Science-Applications 
+
+
+
+### Math foundations for data Science
 
