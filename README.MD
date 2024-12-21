@@ -4,6 +4,7 @@
 ### Useful Algorithms for Data Science
 
 https://github.com/asjad99/Algorithms-for-data-products 
+CS168, advanced analytics in Spark 
 
 ### Data Science Foundations - Selected Topics in Data Science
 
@@ -37,6 +38,9 @@ Everyday DS Tools: https://github.com/asjad99/Data-Science-Tools
 Case Stuides/Applications: https://github.com/asjad99/Data-Science-Applications 
 
 
+### Python Concepts and Computational Thinking Foundations  
+
+https://computationalthinking.mit.edu/Fall24/
 
 ### Math foundations for data Science
 
