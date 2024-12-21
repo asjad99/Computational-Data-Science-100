@@ -1,10 +1,21 @@
-
 ### Mini-Projects in Data Science 
+
+
+References: 
+- Fast Forwards Labs 
+
 
 ### Useful Algorithms for Data Science
 
+
+
+
+References: 
+
 https://github.com/asjad99/Algorithms-for-data-products 
 CS168, advanced analytics in Spark 
+Data science foundations book by CMU
+
 
 ### Data Science Foundations - Selected Topics in Data Science
 
@@ -44,3 +55,4 @@ https://computationalthinking.mit.edu/Fall24/
 
 ### Math foundations for data Science
 
+Jeremy Kun etc 
