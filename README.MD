@@ -56,22 +56,23 @@ By using these resources, you will gain the ability to:
 - Build data products that provide meaningful information for decision-making.
 - Develop a profound understanding of the algorithms and ideas that drive data science forward.
 
+In practice these ideas, skill and knowledge can be applied to develop new business capabilities. For example the ideas can be used to develop Algorithmic products and services like recommendations systems, client engagement bandits, style preference classification, size matching, fashion design systems, logistics optimizers, seasonal trend detection and so on.
+
 This repository is a living resource, and we welcome contributions from the community to ensure it stays up-to-date with the latest developments in data science. Whether you’re a student, educator, or seasoned practitioner, we hope these notebooks will serve as a valuable asset in your learning journey!
 
 
 ----
 
+### Python Concepts and Computational Thinking Foundations  
 
-### Mini-Projects in Data Science 
+https://computationalthinking.mit.edu/Fall24/
 
+### Math foundations for data Science
 
-References: 
-- Fast Forwards Labs 
+Jeremy Kun etc 
 
 
 ### Useful Algorithms for Data Science
-
-
 
 
 References: 
@@ -113,13 +114,26 @@ Everyday DS Tools: https://github.com/asjad99/Data-Science-Tools
 Case Stuides/Applications: https://github.com/asjad99/Data-Science-Applications 
 
 
-### Python Concepts and Computational Thinking Foundations  
 
-https://computationalthinking.mit.edu/Fall24/
 
-### Math foundations for data Science
+### Mini-Projects in Data Science 
 
-Jeremy Kun etc 
+- Inferring Concept Drift Without Labeled Data
+- Session-based Recommender Systems
+- Causality for Machine Learning
+- Interpretability
+- Deep Learning for Anomaly Detection
+- Learning with Limited Labeled Data
+- Federated Learning
+- Probabilistic Methods for Realtime Streams
+- Distributed process event data mining using federated learning
+- Sequential User Session Data for build recommender system using LSTMs
+- Anomaly detection for predictive Maintenance of Turbofan engine / aviation
+
+
+References: 
+
+- Fast Forwards Labs 
 
 
 ----
