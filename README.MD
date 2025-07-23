@@ -1,4 +1,8 @@
+# Computational Data Science - Big Ideas and Metal Models 
+
+
 ### About
+
 
 Welcome to the Data Science Learning Notebooks repository! This project serves as a comprehensive resource for students, practitioners, and enthusiasts looking to learn and deepen their understanding of data science concepts. The repository features a collection of Jupyter notebooks covering both fundamental and advanced topics in data science, blending theoretical insights with practical applications.
 
